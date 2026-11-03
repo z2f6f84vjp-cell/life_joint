@@ -1,0 +1,6 @@
+{
+  "_说明": "本包不需要任何凭据 也不联网 此文件仅作为可选默认值模板",
+  "preset": "anker",
+  "gear_folder": "D:/path/to/gear_csv_folder",
+  "compare_p": 6.61
+}
